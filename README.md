@@ -23,4 +23,4 @@ An interactive Power BI dashboard designed to analyze sales performance, revenue
 - Sales Analysis.pbix
 
 ## Author
-Hemshree Sundaresan
+Hemshree Bhagavathi S
