@@ -17,7 +17,7 @@ An interactive Power BI dashboard designed to analyze sales performance, revenue
 
 ## Dashboard Preview
 
-![Sales Dashboard](DA Project 1 screenshot(2).png)
+![Sales Dashboard](dashboard.png)
 
 ## Project File
 - Sales Analysis.pbix
