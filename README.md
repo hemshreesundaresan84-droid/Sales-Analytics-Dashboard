@@ -15,6 +15,14 @@ An interactive Power BI dashboard designed to analyze sales performance, revenue
 - Microsoft Excel
 - Data Visualization
 
+## Skills
+- Power BI
+- Data Analysis
+- Data Visualization
+- Dashboard Design
+- KPI Reporting
+- Microsoft Excel
+
 ## Dashboard Preview
 
 ![Sales Dashboard](dashboard.png)
